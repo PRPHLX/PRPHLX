@@ -28,4 +28,4 @@ I document as I learn rather than after the fact, in my own words instead of cop
 
 Open to entry-level IT support, service desk, and junior system administration roles — on site in the Greater Metropolitan Area or remote.
 
-Reach me here on GitHub or on [LinkedIn](#).
+Reach me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/dalmar-wilson-thomas-051624355).
