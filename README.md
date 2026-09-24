@@ -40,3 +40,21 @@ Reach me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/dalmar-wils
 [![CyLab Academy](https://img.shields.io/badge/CyLab%20Academy-PRPHLX-C41230?style=for-the-badge)](https://learn.cylabacademy.org/users/PRPHLX)
 [![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit-333333?style=for-the-badge)](https://overthewire.org/wargames/bandit/)
 
+
+## Home Lab
+
+A self-built lab where I practice real administration and support scenarios.
+
+| Component | Role |
+|---|---|
+| **Dell OptiPlex 7060** (i5-8500, 24 GB RAM) | Proxmox VE host: runs **DC01**, a Windows Server 2022 domain controller for `homelab.local` |
+| **MSI desktop** (i7-10700F, 32 GB RAM) | VirtualBox host: Windows 11 clients, Ubuntu and Rocky Linux (desktop and server) |
+| **TP-Link TL-SG108PE** | Managed switch for VLAN segmentation and switching practice |
+| **HP laptop** (headless) | Planned pfSense/OPNsense firewall |
+
+**What I practice here**
+- **Active Directory**: domain setup, users and groups, OUs, Group Policy, joining Windows 11 clients to the domain
+- **Networking**: VLANs, switching, and lab topologies in GNS3 and Cisco Packet Tracer
+- **Linux**: Ubuntu and Rocky Linux server administration, Bash scripting
+- **Traffic analysis**: automated packet captures with dumpcap, reviewed with Wireshark and tshark
+
