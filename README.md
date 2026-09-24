@@ -31,3 +31,12 @@ I document as I learn rather than after the fact, in my own words instead of cop
 Open to entry-level IT support, service desk, and junior system administration roles — on site in the Greater Metropolitan Area or remote.
 
 Reach me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/dalmar-wilson-thomas-051624355).
+
+
+## Where I practice
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-PRPHLX-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/PRPHLX)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-PRPHLX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019f3600-fd00-709b-bac7-26e59ff25fc4)
+[![CyLab Academy](https://img.shields.io/badge/CyLab%20Academy-PRPHLX-C41230?style=for-the-badge)](https://learn.cylabacademy.org/users/PRPHLX)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit-333333?style=for-the-badge)](https://overthewire.org/wargames/bandit/)
+
