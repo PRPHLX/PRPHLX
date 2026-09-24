@@ -1,4 +1,6 @@
-# Dalmar
+# Dalmar Wilson Thomas · PRPHLX
+
+*PRPHLX (pronounced "PRO-fi-lax"): from prophylaxis, the chess principle of anticipating your opponent's plan. It's the mindset I'm training toward.*
 
 **Entry-level IT support | Windows, Active Directory & Linux | Costa Rica | Bilingual EN/ES**
 
