@@ -19,8 +19,8 @@ Right now I'm working toward an IT support role. My longer-term direction is sec
 
 | Repo | What's in it |
 |---|---|
-| [Windows-AD-labs](https://github.com/Cap1919/Windows-AD-labs) | Windows administration, Active Directory and PowerShell notes and labs |
-| [Networking-labs](https://github.com/Cap1919/Networking-labs) | Networking labs, Packet Tracer, Network+ and CCNA study |
+| [Windows-AD-labs](https://github.com/PRPHLX/Windows-AD-labs) | Windows administration, Active Directory and PowerShell notes and labs |
+| [Networking-labs](https://github.com/PRPHLX/Networking-labs) | Networking labs, Packet Tracer, Network+ and CCNA study |
 
 ## How I work
 
