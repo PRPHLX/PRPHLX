@@ -13,13 +13,14 @@ Right now I'm working toward an IT support role. My longer-term direction is sec
 - **Windows & Active Directory** — domain controller lab, user and group management, NTFS permissions, Group Policy
 - **PowerShell** — moving from GUI to command line for everyday administration tasks
 - **Networking** — Cisco Packet Tracer labs, CompTIA Network+ and CCNA study
-- **Linux** — Bash scripting and automation
+- **Linux** — Ubuntu Server administration in my Proxmox lab: SSH hardening, firewall, permissions and sudo, LVM storage, Bash
 
 ## Repositories
 
 | Repo | What's in it |
 |---|---|
 | [Windows-AD-labs](https://github.com/PRPHLX/Windows-AD-labs) | Windows administration, Active Directory and PowerShell notes and labs |
+| [Linux-labs](https://github.com/PRPHLX/Linux-labs) | Ubuntu Server on Proxmox: SSH hardening, UFW firewall, users, permissions and sudo, and a disk-full incident solved with LVM |
 | [Networking-labs](https://github.com/PRPHLX/Networking-labs) | Networking labs, Packet Tracer, Network+ and CCNA study |
 
 ## How I work
@@ -47,7 +48,7 @@ A self-built lab where I practice real administration and support scenarios.
 
 | Component | Role |
 |---|---|
-| **Dell OptiPlex 7060** (i5-8500, 24 GB RAM) | Proxmox VE host: runs **DC01**, a Windows Server 2022 domain controller for `homelab.local` |
+| **Dell OptiPlex 7060** (i5-8500, 24 GB RAM) | Proxmox VE host: runs DC01 (Windows Server 2022 domain controller for homelab.local) and LNX01 (Ubuntu Server 26.04) |
 | **MSI desktop** (i7-10700F, 32 GB RAM) | VirtualBox host: Windows 11 clients, Ubuntu and Rocky Linux (desktop and server) |
 | **TP-Link TL-SG108PE** | Managed switch for VLAN segmentation and switching practice |
 | **HP laptop** (headless) | Planned pfSense/OPNsense firewall |
